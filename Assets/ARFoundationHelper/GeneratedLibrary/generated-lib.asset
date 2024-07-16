@@ -12,14 +12,24 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
   m_Name: generated-lib
   m_EditorClassIdentifier: 
-  m_GuidLow: 5666896490961602467
-  m_GuidHigh: 6504425153345678506
+  m_GuidLow: 5408822140388802878
+  m_GuidHigh: 9845028417957754545
   m_DataStore:
     m_Storage: []
   m_Images:
   - m_SerializedGuid:
-      m_GuidLow: 5758596315088931899
-      m_GuidHigh: 5761396454491342990
+      m_GuidLow: 5268144598285089303
+      m_GuidHigh: 4475180598731142066
+    m_SerializedTextureGuid:
+      m_GuidLow: 8990351018210062874
+      m_GuidHigh: 4478761658284841464
+    m_Size: {x: 1, y: 0.75}
+    m_SpecifySize: 1
+    m_Name: 05
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4691749244439606666
+      m_GuidHigh: 15283274314386746812
     m_SerializedTextureGuid:
       m_GuidLow: 18380510315563750474
       m_GuidHigh: 12578101117966660232
@@ -28,8 +38,8 @@ MonoBehaviour:
     m_Name: 02
     m_Texture: {fileID: 0}
   - m_SerializedGuid:
-      m_GuidLow: 5669900020862444654
-      m_GuidHigh: 8720089825645934522
+      m_GuidLow: 4628689465493410033
+      m_GuidHigh: 4795517145313182630
     m_SerializedTextureGuid:
       m_GuidLow: 460713628507977154
       m_GuidHigh: 8143712364990531193
@@ -38,18 +48,18 @@ MonoBehaviour:
     m_Name: 03
     m_Texture: {fileID: 0}
   - m_SerializedGuid:
-      m_GuidLow: 5337052145053240668
-      m_GuidHigh: 12587571736704738481
+      m_GuidLow: 5185691326987900628
+      m_GuidHigh: 4772169081425692561
     m_SerializedTextureGuid:
-      m_GuidLow: 313162111193621570
-      m_GuidHigh: 14679713493253511466
-    m_Size: {x: 0.6756293, y: 1}
+      m_GuidLow: 6607911615216533637
+      m_GuidHigh: 9174070195882792490
+    m_Size: {x: 1, y: 0.75}
     m_SpecifySize: 1
     m_Name: 04
     m_Texture: {fileID: 0}
   - m_SerializedGuid:
-      m_GuidLow: 5696688469160264484
-      m_GuidHigh: 3312861699956686214
+      m_GuidLow: 5559809239391901615
+      m_GuidHigh: 6616324422534534788
     m_SerializedTextureGuid:
       m_GuidLow: 6085631395602255165
       m_GuidHigh: 9043365375820428456
